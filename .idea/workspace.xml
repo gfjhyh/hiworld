@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5858b506-38b9-4358-8de1-c2e8ab452891" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hiworld/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hiworld/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hiworld/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hiworld/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hiworld/hiworld.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hiworld/src/HiWorld.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hiworld/src" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hiworld/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../hiworld/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../hiworld/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -214,12 +210,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544530111922</updated>
-      <workItem from="1544530114964" duration="349000" />
+      <workItem from="1544530114964" duration="428000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1544530472673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544530472673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="349000" />
+    <option name="totallyTimeSpent" value="428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
